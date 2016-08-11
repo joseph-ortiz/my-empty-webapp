@@ -1,0 +1,15 @@
+{
+  "name": "my-empty-webapp",
+  "version": "1.0.0",
+  "description": "We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "del": "2.2.0"
+    },
+  "author": "Joseph C. Ortiz <josepho011235@gmail.com> (http://joseph-ortiz.github.io/)",
+  "license": "MIT"
+}
